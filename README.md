@@ -21,7 +21,7 @@ Azure SQL Database
 ↓  
 Power BI Dashboard  
 
-![Architecture](architecture.png)
+<img src=".com/prve17/virtual-server-monitoring-pipeline/edit/main/Architecture.png">
 
 ---
 
@@ -85,7 +85,7 @@ Filters allow users to explore the data by:
 
 ### Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img src=".com/prve17/virtual-server-monitoring-pipeline/edit/main/Dashboard.png">
 
 ---
 
