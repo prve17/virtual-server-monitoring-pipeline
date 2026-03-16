@@ -91,6 +91,7 @@ Filters allow users to explore the data by:
 
 ## Project Structure
 
+```text
 virtual-server-monitoring-pipeline/
 │
 ├── pipeline.py
@@ -101,7 +102,7 @@ virtual-server-monitoring-pipeline/
 ├── dashboard.png
 ├── server_monitoring_dashboard.pbix
 └── server_monitoring_pipeline_presentation.pptx
-
+```
 
 ---
 
